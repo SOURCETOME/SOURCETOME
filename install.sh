@@ -51,4 +51,3 @@ cd SOURCETOME
 rm -rf luarocks*
 lua start.lua
 
-
